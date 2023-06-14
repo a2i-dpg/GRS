@@ -5,7 +5,7 @@
 - [Usage](#usage)
 - [File Upload Documentation](#file-upload-documentation)
 - [Demo Link](#demo-link)
-- [File-1 Link](https://github.com/a2i-dpg/GRS/tree/main/documents/file1.md)
+- [File-1 Link](https://github.com/a2i-dpg/GRS/blob/main/documents/File1.md)
 
 
 
