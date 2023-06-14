@@ -4,7 +4,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [File Upload Documentation](#file-upload-documentation)
-- - [Demo Section](##demo-section)
+- - [Demo Section](#demo-section)
 
 
 
@@ -22,7 +22,7 @@
 #### Four
 ##### Five
 
-## Demo Section
+# Demo Section
 
 
 
