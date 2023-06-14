@@ -4,7 +4,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [File Upload Documentation](#file-upload-documentation)
-- [Demo Section](#demo-section)
+- [Demo Link](#demo-link)
 
 
 
@@ -21,8 +21,6 @@
 ### Three
 #### Four
 ##### Five
-
-# Demo Section
 
 
 
@@ -102,3 +100,5 @@ If file or image is not displayed after uploading, please run this bellow comman
 ```shell
 php artisan storage:link 
 ```
+
+# Demo Link
